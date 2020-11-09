@@ -217,6 +217,7 @@ ul {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 /* feature list discribse of features */
@@ -337,9 +338,9 @@ ul {
   margin-bottom: 9px;
 }
 
-/* .footer-contacts {
-  margin-bottom: 60px;
-} */
+.footer-contacts {
+  margin-top: 9px;
+}
 /* adres footer */
 .adres {
   color: var(--primary-bg-color);
@@ -347,6 +348,7 @@ ul {
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
+  font-style: normal;
 }
 /* contacts footer */
 
